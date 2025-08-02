@@ -1,6 +1,6 @@
 
 // postcss.config.js
-module.exports = {
+const config  = {
   plugins: {
     'postcss-import': {},
     tailwindcss: {},
@@ -16,3 +16,4 @@ module.exports = {
   },
 };
 
+export default config;
