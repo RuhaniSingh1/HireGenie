@@ -46,6 +46,7 @@
     "zod": "^4.0.5"
   },
   "devDependencies": {
+    "postcss-import": "^15.1.0",
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
