@@ -1,6 +1,3 @@
-const config = {
-  plugins: ["@tailwindcss/postcss"],
-};
 
 // postcss.config.js
 module.exports = {
@@ -19,5 +16,3 @@ module.exports = {
   },
 };
 
-
-export default config;
